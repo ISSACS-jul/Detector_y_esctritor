@@ -15,6 +15,6 @@ try:
         detector.detect_click(text=linea)
 
 except FileNotFoundError:
-    print(f"⚠️ No se encontró '{archivo_lectura}'")
+    print(f" No se encontró '{archivo_lectura}'")
 except Exception as e:
-    print(f"⚠️ Ocurrió un error: {e}")
+    print(f" Ocurrió un error: {e}")
