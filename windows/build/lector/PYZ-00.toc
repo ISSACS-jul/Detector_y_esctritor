@@ -1,4 +1,5 @@
-('C:\\Users\\julia\\OneDrive\\Documents\\programas\\mod\\build\\lector\\PYZ-00.pyz',
+('C:\\Users\\julia\\OneDrive\\Documents\\programas\\subidor de '
+ 'notas\\build\\lector\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
@@ -308,7 +309,8 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
    'PYMODULE'),
   ('detector',
-   'C:\\Users\\julia\\OneDrive\\Documents\\programas\\mod\\detector.py',
+   'C:\\Users\\julia\\OneDrive\\Documents\\programas\\subidor de '
+   'notas\\detector.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Program '
@@ -403,7 +405,8 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
    'PYMODULE'),
   ('escritor',
-   'C:\\Users\\julia\\OneDrive\\Documents\\programas\\mod\\escritor.py',
+   'C:\\Users\\julia\\OneDrive\\Documents\\programas\\subidor de '
+   'notas\\escritor.py',
    'PYMODULE'),
   ('fnmatch',
    'C:\\Program '
